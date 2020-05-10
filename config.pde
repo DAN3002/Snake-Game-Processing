@@ -1,0 +1,4 @@
+WITDH = 400;
+HEIGHT = 400;
+
+GRID_SIZE = 20;
